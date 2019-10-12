@@ -1,4 +1,4 @@
-# fullscreen web app wrong height
+# [fullscreen web app wrong height](https://bugs.chromium.org/p/chromium/issues/detail?id=1013888)
 
 Elements in fullscreen web apps on Android Chrome v77.0.3865.116 cannot always be sized to fullscreen.
 
